@@ -109,9 +109,7 @@ The exact numerical findings are available in the Jupyter Notebook.
 
 ```text
 Task 2 - Unemployment Analysis with Python/
-│
 ├── Task 2 - Unemployment Analysis.ipynb
-├── Unemployment in India.csv
 ├── unemployment_india_cleaned.csv
 └── README.md
 ```
